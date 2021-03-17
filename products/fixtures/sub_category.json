@@ -1,0 +1,137 @@
+[
+  {
+    "pk": 1,
+    "model": "products.sub_category",
+    "fields": {
+      "name": "mini",
+      "friendly_name": "Mini",
+      "category": 2
+    }
+  },
+  {
+    "pk": 2,
+     "model": "products.sub_category",
+    "fields": {
+      "name": "midi",
+      "friendly_name": "Midi",
+      "category": 2
+    }
+  },
+  {
+    "pk": 3,
+   "model": "products.sub_category",
+    "fields": {
+      "name": "maxi",
+      "friendly_name": "Maxi",
+      "category": 2
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.sub_category",
+    "fields": {
+      "name": "heels",
+      "friendly_name": "Heels",
+      "category": 1
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.sub_category",
+    "fields": {
+      "name": "flats",
+      "friendly_name": "Flats",
+      "category": 1
+    }
+  },
+  {
+    "pk": 6,
+  "model": "products.sub_category",
+    "fields": {
+      "name": "boots",
+      "friendly_name": "Boots",
+      "category": 1
+    }
+  },
+  {
+    "pk": 7,
+   "model": "products.sub_category",
+    "fields": {
+      "name": "jumpsuits",
+      "friendly_name": "Jumpsuits & Dungarees",
+      "category": 7
+    }
+  },
+  {
+    "pk": 8,
+    "model": "products.sub_category",
+    "fields": {
+      "name": "joggers",
+      "friendly_name": "Joggers",
+      "category": 7
+    }
+  },
+  {
+    "pk": 9,
+    "model": "products.sub_category",
+    "fields": {
+      "name": "trousers",
+      "friendly_name": "Trousers",
+      "category": 7
+    }
+  },
+    {
+    "pk": 10,
+    "model": "products.sub_category",
+    "fields": {
+      "name": "sunglasses",
+      "friendly_name": "Sunglasses",
+      "category": 5
+    }
+  },
+      {
+    "pk": 11,
+     "model": "products.sub_category",
+     "fields": {
+      "name": "earrings",
+      "friendly_name": "Earrings",
+      "category": 5
+    }
+  },
+      {
+    "pk": 12,
+     "model": "products.sub_category",
+     "fields": {
+      "name": "necklaces",
+      "friendly_name": "Necklaces",
+      "category": 5
+    }
+  },
+      {
+    "pk": 13,
+     "model": "products.sub_category",
+     "fields": {
+      "name": "bracelets",
+      "friendly_name": "Bracelets & Bangles",
+      "category": 5
+    }
+  },
+      {
+    "pk": 14,
+    "model": "products.sub_category",
+     "fields": {
+      "name": "one_piece",
+      "friendly_name": "One Piece",
+      "category": 4
+    }
+ },
+     {
+    "pk": 14,
+    "model": "products.sub_category",
+     "fields": {
+      "name": "two_piece",
+      "friendly_name": "Two Piece",
+      "category": 4
+    }
+ }
+]
