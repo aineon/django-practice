@@ -1203,112 +1203,120 @@
     "pk": 81,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005810108",
-      "name": "a.n.a Jeggings - Plus",
-      "description": "Our sleek, stretchy jeggings will let you flaunt your silhouette to best advantage. super stretch mid rise fitted through hip and thigh super skinny leg flat front 5-pocket styling cotton/lyocell/polyester/spandex black, medium gray: rayon/cotton/polyester/spandex washable imported plus: 31\" inseam plus short: 29\" inseam",
-      "price": 60.99,
-      "category": 6,
-      "rating": 4.7,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0702201517033643M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0702201517033643M.jpg"
+      "sku": "dre00024",
+      "name": "Daisy Dress",
+      "description": "Sleeveless orange, A-line style midi dress with flower print and belt, v-neck",
+      "price": 59.99,
+      "has_sizes": true,
+      "category": 2,
+      "sub_category": 2,
+      "image_url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTkxfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "dress29.png"
     }
   },
   {
     "pk": 82,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005820197",
-      "name": "Nike Therma-FIT Pullover Hoodie - Boys 8-20",
-      "description": "Add a cozy layer to any game-ready style with this insulated performance hoodie, featuring a pullover design and Therma-FIT fabric for warmth. Therma-FIT microfiber fleece fabric keeps you warm and insulated mesh-lined hood for breathable coverage long sleeves ribbed cuffs and hem kangaroo pocket polyester washable imported",
-      "price": 48.99,
-      "category": 1,
-      "rating": 4.9,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1008201517035763M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1008201517035763M.jpg"
+      "sku": "dre00025",
+      "name": "Hailey Dress",
+      "description": "Hot pink, satin pouf mini dress, plunging neckline and spagetti straps.",
+      "price": 92.99,
+      "has_sizes": true,
+      "category": 2,
+      "sub_category": 1,
+      "image_url": "https://images.unsplash.com/photo-1576350591619-5f0841c6cab5?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjA4fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "dress30.png"
     }
   },
   {
     "pk": 83,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005840598",
-      "name": "Disney Collection Frozen Elsa Graphic Tee - Girls 2-12",
-      "description": "Girly style gets a cool Frozen touch with this Elsa graphic tee. crewneck short sleeves glitter details 100% cotton washable imported",
-      "price": 27,
-      "category": 3,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0716201517033520M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0716201517033520M.jpg"
+     "sku": "dre00026",
+      "name": "Sally Dress",
+      "description": "Khaki, A-line, long-sleeved maxi dress",
+      "price": 89.99,
+      "has_sizes": true,
+      "category": 2,
+      "sub_category": 3,
+      "image_url": "https://images.unsplash.com/photo-1545911825-1a1a91821015?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTcyfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "dress31.png"
     }
   },
   {
     "pk": 84,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005840776",
-      "name": "Dickies Short-Sleeve Performance Polo",
-      "description": "When performance counts, reach for this easy-care piqu polo from Dickies, featuring moisture-wicking technology and protection from the sun. moisture-wicking fabric fade and snag resistant UV protection rib-knit collar tagless neck for comfort 3-button placket side vents polyester washable imported",
-      "price": 29.99,
-      "category": 9,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0717201517041911M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0717201517041911M.jpg"
+      "sku": "dre00027",
+      "name": "Mia Skirt",
+      "description": "Black satin look, pleated midi skirt.",
+      "price": 47.99,
+      "has_sizes": true,
+      "category": 2,
+      "sub_category": 2,
+      "image_url": "https://images.unsplash.com/photo-1533659828870-95ee305cee3e?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTU2fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "dress32.png"
     }
   },
   {
     "pk": 85,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005850180",
-      "name": "Sunbeam Comfy Toes Microplush Heated Throw",
-      "description": "Snuggling on the couch just got better with this throw that has a pocket built in to help keep your feet from popping out and getting cold. foot pocket designed to keep feet nice and warm 3 heat settings 3-hour auto off 12' cord measures 50x60\" Polyester. Washable. Imported.",
-      "price": 138.99,
-      "category": 3,
-      "rating": 4.2,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0527201517022924M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0527201517022924M.jpg"
+      "sku": "dre00028",
+      "name": "Zaza Dress",
+      "description": "Bodycon, pale pink mini dress with bodice top",
+      "price": 77.99,
+      "has_sizes": true,
+      "category": 2,
+      "sub_category": 1,
+      "image_url": "https://images.unsplash.com/photo-1609533928169-4ca295689762?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTU0fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "dress33.png"
     }
   },
   {
     "pk": 86,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005851218",
-      "name": "Madison Park Lavinia 6-pc. Quilted Coverlet Set",
-      "description": "A classic paisley print in contrasting brown and blue gives this coverlet set a timeless look that's accented with coordinating print accessories for a rich, full new look. chocolate brown with baby blue and ivory colored paisley brown border on coverlet and shams decorative pillows feature embroidery, tucking and pleating details 6-piece sets include: coverlet 2 shams 3 decorative pillows Full/Queen sets include standard shams. King/Cal. King sets include king shams. Polyester coverlet with cotton, polyester, rayon and olefin fill; polyester decorative pillows with polyester fill; polyester shams. Washable; spot clean pillows. Imported. Full/Queen: coverlet is 90x90\"; shams are 26x20\"; decorative pillows are 18x18\", 16x16\" and 18x12\" King/Cal. King: coverlet is 104x94\"; shams are 36x20\"; decorative pillows are 18x18\", 16x16\" and 18x12\" For best results, launder in a large-capacity front-loading washer and dryer. If the coverlet doesn't have free movement in the washer and dryer, a large-capacity commercial washer and dryer are recommended.",
-      "price": 326.99,
+      "sku": "dre00029",
+      "name": "Bella Dress",
+      "description": "Bright pink, A-line style maxi dress with coloured ribbon and lace details and hem. High neck and puff shoulders.",
+      "price": 103.99,
+      "has_sizes": true,
       "category": 2,
-      "rating": 4.1,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0714201504201760M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0714201504201760M.jpg"
+      "sub_category": 3,
+      "image_url": "https://images.unsplash.com/photo-1565324687254-d76f7c51a777?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "dress34.png"
     }
   },
   {
     "pk": 87,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005860175",
-      "name": "Xersion Quick-Dri Performance Bootcut Pant - Short",
-      "description": "Whether you're working out or runningor heading to the coffee shop afterwardsour regular rise, slim-fit, bootcut pants will keep you comfortable. tight compression fit provides added comfort during workouts Quick-Dri moisture-wicking fabric helps keep you dry no-chafe seams won't irritate your skin key pocket at inside waistband 30\" inseam jersey knit polyester/spandex washable imported",
-      "price": 58.99,
-      "category": 4,
-      "rating": 4.8,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0710201517034239M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0710201517034239M.jpg"
+      "sku": "dre00030",
+      "name": "Lola Dress",
+      "description": "Smock style, purple and brown patterned maxi with 3/4 length sleeves.",
+      "price": 87.99,
+      "has_sizes": true,
+      "category": 2,
+      "sub_category": 3,
+      "image_url": "https://images.unsplash.com/photo-1602185948056-7a517148a391?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTgzfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "dress35.png"
     }
   },
   {
     "pk": 88,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005860263",
-      "name": "Lugz Empire Hi Mens Water-Resistant Hiking Boots",
-      "description": "Offering extra coverage with its high-top design, these water-resistant boots keep you looking good while you accomplish the task at hand. technology Flexa-stride memory foam insole construction synthetic upper rubber sole details lace up padded tongue and collar",
-      "price": 108.99,
-      "category": 8,
-      "rating": 4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0805201520415923C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0805201520415923C.jpg"
+      "sku": "dre00031",
+      "name": "Mia Dress",
+      "description": "Satin, teal and orange, grandad shirt style mini dress",
+      "price": 57.99,
+      "has_sizes": true,
+      "category": 2,
+      "sub_category": 1,
+      "image_url": "https://images.unsplash.com/photo-1548867568-8e973afb8fba?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg3fDIxODQ4NTEwfHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+      "image": "dress36.png"
     }
   },
   {

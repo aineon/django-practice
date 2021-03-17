@@ -55,5 +55,13 @@
       "name": "tops",
       "friendly_name": "Tops"
     }
+  },
+   {
+    "pk": 8,
+    "model": "products.category",
+    "fields": {
+      "name": "our_picks",
+      "friendly_name": "Our Picks"
+    }
   }
 ]
