@@ -1,7 +1,7 @@
 [
   {
     "pk": 1,
-    "model": "products.sub_category",
+    "model": "products.subcategory",
     "fields": {
       "name": "mini",
       "friendly_name": "Mini",
@@ -10,7 +10,7 @@
   },
   {
     "pk": 2,
-     "model": "products.sub_category",
+     "model": "products.subcategory",
     "fields": {
       "name": "midi",
       "friendly_name": "Midi",
@@ -19,7 +19,7 @@
   },
   {
     "pk": 3,
-   "model": "products.sub_category",
+   "model": "products.subcategory",
     "fields": {
       "name": "maxi",
       "friendly_name": "Maxi",
@@ -28,7 +28,7 @@
   },
   {
     "pk": 4,
-    "model": "products.sub_category",
+    "model": "products.subcategory",
     "fields": {
       "name": "heels",
       "friendly_name": "Heels",
@@ -37,7 +37,7 @@
   },
   {
     "pk": 5,
-    "model": "products.sub_category",
+    "model": "products.subcategory",
     "fields": {
       "name": "flats",
       "friendly_name": "Flats",
@@ -46,7 +46,7 @@
   },
   {
     "pk": 6,
-  "model": "products.sub_category",
+  "model": "products.subcategory",
     "fields": {
       "name": "boots",
       "friendly_name": "Boots",
@@ -55,7 +55,7 @@
   },
   {
     "pk": 7,
-   "model": "products.sub_category",
+   "model": "products.subcategory",
     "fields": {
       "name": "jumpsuits",
       "friendly_name": "Jumpsuits & Dungarees",
@@ -64,7 +64,7 @@
   },
   {
     "pk": 8,
-    "model": "products.sub_category",
+    "model": "products.subcategory",
     "fields": {
       "name": "joggers",
       "friendly_name": "Joggers",
@@ -73,7 +73,7 @@
   },
   {
     "pk": 9,
-    "model": "products.sub_category",
+    "model": "products.subcategory",
     "fields": {
       "name": "trousers",
       "friendly_name": "Trousers",
@@ -82,7 +82,7 @@
   },
     {
     "pk": 10,
-    "model": "products.sub_category",
+    "model": "products.subcategory",
     "fields": {
       "name": "sunglasses",
       "friendly_name": "Sunglasses",
@@ -91,7 +91,7 @@
   },
       {
     "pk": 11,
-     "model": "products.sub_category",
+     "model": "products.subcategory",
      "fields": {
       "name": "earrings",
       "friendly_name": "Earrings",
@@ -100,7 +100,7 @@
   },
       {
     "pk": 12,
-     "model": "products.sub_category",
+     "model": "products.subcategory",
      "fields": {
       "name": "necklaces",
       "friendly_name": "Necklaces",
@@ -109,7 +109,7 @@
   },
       {
     "pk": 13,
-     "model": "products.sub_category",
+     "model": "products.subcategory",
      "fields": {
       "name": "bracelets",
       "friendly_name": "Bracelets & Bangles",
@@ -118,7 +118,7 @@
   },
       {
     "pk": 14,
-    "model": "products.sub_category",
+    "model": "products.subcategory",
      "fields": {
       "name": "one_piece",
       "friendly_name": "One Piece",
@@ -127,7 +127,7 @@
  },
      {
     "pk": 14,
-    "model": "products.sub_category",
+    "model": "products.subcategory",
      "fields": {
       "name": "two_piece",
       "friendly_name": "Two Piece",

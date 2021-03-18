@@ -9,7 +9,7 @@
       "price": 54.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1603402474489-65ea497f29e0?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjJ8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag1.png"
     }
@@ -24,7 +24,7 @@
       "price": 49.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1591561954555-607968c989ab?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzF8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag2.png"
     }
@@ -39,7 +39,7 @@
       "price": 39.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzZ8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag3.png"
     }
@@ -54,7 +54,7 @@
       "price": 54.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjF8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag4.png"
     }
@@ -69,7 +69,7 @@
       "price": 54.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1566150902887-9679ecc155ba?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mzl8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag5.png"
     }
@@ -84,7 +84,7 @@
       "price": 54.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "",
       "image": "bag6.png"
     }
@@ -99,7 +99,7 @@
       "price": 64.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1575296093822-95cb556a20ec?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjR8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag7.png"
     }
@@ -114,7 +114,7 @@
       "price": 39.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzB8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag8.png"
     }
@@ -129,7 +129,7 @@
       "price": 34.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1614809295882-b0dfb87914b1?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTl8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag9.png"
     }
@@ -144,7 +144,7 @@
       "price": 45.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1560891958-68bb1fe7fb78?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzN8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag10.png"
     }
@@ -159,7 +159,7 @@
       "price": 49.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1575032617751-6ddec2089882?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjh8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag11.png"
     }
@@ -174,7 +174,7 @@
       "price": 57.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1572172793409-c3db4a0ca8df?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjd8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag12.png"
     }
@@ -189,7 +189,7 @@
       "price": 39.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1574271143515-5cddf8da19be?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mzh8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag13.png"
     }
@@ -204,7 +204,7 @@
       "price": 66.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1613482184847-44483b792eeb?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjZ8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag14.png"
     }
@@ -219,7 +219,7 @@
       "price": 30.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1605124130434-9cf3799b91aa?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzR8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag15.png"
     }
@@ -234,7 +234,7 @@
       "price": 35.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1524679813234-66a389fe1a42?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjV8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag16.png"
     }
@@ -249,7 +249,7 @@
       "price": 33.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1585488433963-2e35fb083e52?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MzJ8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag17.png"
     }
@@ -264,7 +264,7 @@
       "price": 59.99,
       "has_sizes": false,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1604252637681-537dffeb680f?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjN8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "bag18.png"
     }
@@ -279,7 +279,7 @@
       "price": 64.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 7,
+      "subcategory": 7,
       "image_url": "https://images.unsplash.com/photo-1599483459723-45dac3861601?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc4fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "jump1.png"
     }
@@ -294,7 +294,7 @@
       "price": 59.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 7,
+      "subcategory": 7,
       "image_url": "https://images.unsplash.com/photo-1603216216563-50377abeddd0?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc1fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "jump2.png"
     }
@@ -309,7 +309,7 @@
       "price": 60.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 7,
+      "subcategory": 7,
       "image_url": "https://images.unsplash.com/photo-1545291730-faff8ca1d4b0?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTYxfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "jump3.png"
     }
@@ -324,7 +324,7 @@
       "price": 76.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 7,
+      "subcategory": 7,
       "image_url": "https://images.unsplash.com/photo-1609324120004-364275e0ad05?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTM1fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "jump4.png"
     }
@@ -339,7 +339,7 @@
       "price": 49.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 9,
+      "subcategory": 9,
       "image_url": "https://images.unsplash.com/photo-1509631179647-0177331693ae?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjE2fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "pant1.png"
     }
@@ -354,7 +354,7 @@
       "price": 39.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 8,
+      "subcategory": 8,
       "image_url": "https://images.unsplash.com/photo-1550703723-9b4fe78fa718?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODl8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "pant2.png"
     }
@@ -369,7 +369,7 @@
       "price": 36.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 8,
+      "subcategory": 8,
       "image_url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjExfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "pant3.png"
     }
@@ -384,7 +384,7 @@
       "price": 34.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 8,
+      "subcategory": 8,
       "image_url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTM2fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "pant4.png"
     }
@@ -399,7 +399,7 @@
       "price": 44.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 9,
+      "subcategory": 9,
       "image_url": "",
       "image": "pant5.png"
     }
@@ -414,7 +414,7 @@
       "price": 39.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 9,
+      "subcategory": 9,
       "image_url": "",
       "image": "pant6.png"
     }
@@ -429,7 +429,7 @@
       "price": 31.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 8,
+      "subcategory": 8,
       "image_url": "https://images.unsplash.com/photo-1604702770021-6e8fcc5f9a17?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTYyfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "pant7.png"
     }
@@ -444,7 +444,7 @@
       "price": 36.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 9,
+      "subcategory": 9,
       "image_url": "https://images.unsplash.com/photo-1578776691547-8cc984f5d3f8?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODd8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "pant8.png"
     }
@@ -459,7 +459,7 @@
       "price": 69.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 7,
+      "subcategory": 7,
       "image_url": "https://images.unsplash.com/photo-1567284705416-b3b6e635720d?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc0fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "pant9.png"
     }
@@ -474,7 +474,7 @@
       "price": 55.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 9,
+      "subcategory": 9,
       "image_url": "https://images.pexels.com/photos/914668/pexels-photo-914668.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image": "pant111.png"
     }
@@ -489,7 +489,7 @@
       "price": 58.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 9,
+      "subcategory": 9,
       "image_url": "https://images.pexels.com/photos/952627/pexels-photo-952627.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image": "pant112.png"
     }
@@ -504,7 +504,7 @@
       "price": 29.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 9,
+      "subcategory": 9,
       "image_url": "https://images.pexels.com/photos/975005/pexels-photo-975005.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image": "pant113.png"
     }
@@ -519,7 +519,7 @@
       "price": 45.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 9,
+      "subcategory": 9,
       "image_url": "https://images.pexels.com/photos/1075776/pexels-photo-1075776.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image": "pant114.png"
     }
@@ -534,7 +534,7 @@
       "price": 39.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 9,
+      "subcategory": 9,
       "image_url": "https://images.pexels.com/photos/1269998/pexels-photo-1269998.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image": "pant115.png"
     }
@@ -549,7 +549,7 @@
       "price": 46.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 9,
+      "subcategory": 9,
       "image_url": "https://images.pexels.com/photos/2647887/pexels-photo-2647887.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image": "pant116.png"
     }
@@ -564,7 +564,7 @@
       "price": 69.99,
       "has_sizes": true,
       "category": 7,
-      "sub_category": 8,
+      "subcategory": 8,
       "image_url": "https://images.pexels.com/photos/3374434/pexels-photo-3374434.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image": "pant117.png"
     }
@@ -579,7 +579,7 @@
       "price": 89.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.pexels.com/photos/2703039/pexels-photo-2703039.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image": "coat111.png"
     }
@@ -594,7 +594,7 @@
       "price": 74.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.pexels.com/photos/4269551/pexels-photo-4269551.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image": "coat112.png"
     }
@@ -609,7 +609,7 @@
       "price": 59.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.pexels.com/photos/1040173/pexels-photo-1040173.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "image": "coat113.png"
     }
@@ -624,7 +624,7 @@
       "price": 118.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1601762319935-963f5b1869ad?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OHwyMTg0ODUxMHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat1.png"
     }
@@ -639,7 +639,7 @@
       "price": 92.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1607778002069-c6a249decefb?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTN8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat2.png"
     }
@@ -654,7 +654,7 @@
       "price": 70.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTR8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat3.png"
     }
@@ -669,7 +669,7 @@
       "price": 59.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1610093066342-aec25a125bf5?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OTF8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat4.png"
     }
@@ -684,7 +684,7 @@
       "price": 49.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1543402259-a43ca487414d?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OXwyMTg0ODUxMHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat5.png"
     }
@@ -699,7 +699,7 @@
       "price": 48.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1608234808654-2a8875faa7fd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wyMTg0ODUxMHx8ZW58MHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "image": "coat6.png"
     }
@@ -714,7 +714,7 @@
       "price": 84.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1583846724527-80ceecb9b80c?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NXwyMTg0ODUxMHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat7.png"
     }
@@ -729,7 +729,7 @@
       "price": 60.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1612258852586-444b4c3cbf8a?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTUyfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat9.png"
     }
@@ -744,7 +744,7 @@
       "price": 66.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1554412933-514a83d2f3c8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnwyMTg0ODUxMHx8ZW58MHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "image": "coat10.png"
     }
@@ -759,7 +759,7 @@
       "price": 39.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1560252659-bed3ad25ed67?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OTJ8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat11.png"
     }
@@ -774,7 +774,7 @@
       "price": 88.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1568622236513-cdda495c7221?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTF8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat12.png"
     }
@@ -789,7 +789,7 @@
       "price": 69.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/flagged/photo-1554033750-2137b5cfd7ce?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NnwyMTg0ODUxMHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat15.png"
     }
@@ -804,7 +804,7 @@
       "price": 54.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1591900947067-851789555ef3?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTJ8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat16.png"
     }
@@ -819,7 +819,7 @@
       "price": 138.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1597582928171-e0f0b91381c2?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8N3wyMTg0ODUxMHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat17.png"
     }
@@ -834,7 +834,7 @@
       "price": 74.99,
       "has_sizes": true,
       "category": 1,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/flagged/photo-1575364487508-ef1254107baf?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OTB8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat19.png"
     }
@@ -849,7 +849,7 @@
       "price": 66,
       "has_sizes": true,
       "category": 3,
-      "sub_category": null,
+      "subcategory": null,
       "image_url": "https://images.unsplash.com/photo-1596725710311-1867ffa3268f?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc3fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "coat20.png"
     }
@@ -864,7 +864,7 @@
       "price": 84.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 1,
+      "subcategory": 1,
       "image_url": "https://images.unsplash.com/photo-1612970908874-527a02767fdd?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjA3fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress1.png"
     }
@@ -879,7 +879,7 @@
       "price": 69.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 2,
+      "subcategory": 2,
       "image_url": "https://images.unsplash.com/photo-1500643752441-4dc90cda350a?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjEwfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress2.png"
     }
@@ -894,7 +894,7 @@
       "price": 54.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 2,
+      "subcategory": 2,
       "image_url": "https://images.unsplash.com/photo-1551862512-aa5cf465bf32?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTgxfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress3.png"
     }
@@ -909,7 +909,7 @@
       "price": 64.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 1,
+      "subcategory": 1,
       "image_url": "https://images.unsplash.com/photo-1562077365-9e9ed7bd25fa?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTkwfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress4.png"
     }
@@ -924,7 +924,7 @@
       "price": 64.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 1,
+      "subcategory": 1,
       "image_url": "https://images.unsplash.com/photo-1592179644456-e6e3ad050702?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTh8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress6.png"
     }
@@ -939,7 +939,7 @@
       "price": 54.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 3,
+      "subcategory": 3,
       "image_url": "https://images.unsplash.com/photo-1563801360261-e2f395a6da86?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg2fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress7.png"
     }
@@ -954,7 +954,7 @@
       "price": 74.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 1,
+      "subcategory": 1,
       "image_url": "https://images.unsplash.com/photo-1582533575066-75bd83ac91de?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTczfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress8.png"
     }
@@ -969,7 +969,7 @@
       "price": 59.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 3,
+      "subcategory": 3,
       "image_url": "https://images.unsplash.com/photo-1613871636680-236aa8feffee?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTU5fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress9.png"
     }
@@ -984,7 +984,7 @@
       "price": 159.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 2,
+      "subcategory": 2,
       "image_url": "https://images.unsplash.com/photo-1601653233006-5c9fd30eab12?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg1fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress11.png"
     }
@@ -999,7 +999,7 @@
       "price": 109.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 3,
+      "subcategory": 3,
       "image_url": "https://images.unsplash.com/photo-1602594652169-d61a2cb4df34?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTU3fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress13.png"
     }
@@ -1014,7 +1014,7 @@
       "price": 89.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 2,
+      "subcategory": 2,
       "image_url": "https://images.unsplash.com/photo-1602594652169-d61a2cb4df34?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTU3fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress14.png"
     }
@@ -1029,7 +1029,7 @@
       "price": 49.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 1,
+      "subcategory": 1,
       "image_url": "https://images.unsplash.com/photo-1613950506315-c1ddbc19857c?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTgyfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress15.png"
     }
@@ -1044,7 +1044,7 @@
       "price": 99.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 3,
+      "subcategory": 3,
       "image_url": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTgwfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress16.png"
     }
@@ -1059,7 +1059,7 @@
       "price": 69.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 2,
+      "subcategory": 2,
       "image_url": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg5fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress17.png"
     }
@@ -1074,7 +1074,7 @@
       "price": 69.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 2,
+      "subcategory": 2,
       "image_url": "https://images.unsplash.com/photo-1585487000376-31e93cfda351?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTY0fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress18.png"
     }
@@ -1089,7 +1089,7 @@
       "price": 79.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 1,
+      "subcategory": 1,
       "image_url": "https://images.unsplash.com/photo-1569872770750-ae7f961b798b?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg4fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress20.png"
     }
@@ -1104,7 +1104,7 @@
       "price": 59.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 1,
+      "subcategory": 1,
       "image_url": "https://images.unsplash.com/photo-1612258826147-44dcfa7bc6f8?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTY5fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress22.png"
     }
@@ -1119,7 +1119,7 @@
       "price": 84.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 1,
+      "subcategory": 1,
       "image_url": "https://images.unsplash.com/photo-1590699489795-1a411919d085?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTY2fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress23.png"
     }
@@ -1134,7 +1134,7 @@
       "price": 72.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 3,
+      "subcategory": 3,
       "image_url": "https://images.unsplash.com/photo-1605763269552-4705d8c8e301?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTUwfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress24.png"
     }
@@ -1149,7 +1149,7 @@
       "price": 76.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 3,
+      "subcategory": 3,
       "image_url": "https://images.unsplash.com/photo-1605763052457-e76586eecfb9?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTYzfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress25.png"
     }
@@ -1164,7 +1164,7 @@
       "price": 36.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 2,
+      "subcategory": 2,
       "image_url": "https://images.unsplash.com/photo-1562292817-58d294c3a7e3?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTY4fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress26.png"
     }
@@ -1179,7 +1179,7 @@
       "price": 47.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 2,
+      "subcategory": 2,
       "image_url": "https://images.unsplash.com/photo-1551180452-cc3ca222cdfb?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTd8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress27.png"
     }
@@ -1194,7 +1194,7 @@
       "price": 52.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 2,
+      "subcategory": 2,
       "image_url": "https://images.unsplash.com/photo-1551923898-268766738950?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTY1fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress28.png"
     }
@@ -1209,7 +1209,7 @@
       "price": 59.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 2,
+      "subcategory": 2,
       "image_url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTkxfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress29.png"
     }
@@ -1224,7 +1224,7 @@
       "price": 92.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 1,
+      "subcategory": 1,
       "image_url": "https://images.unsplash.com/photo-1576350591619-5f0841c6cab5?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjA4fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress30.png"
     }
@@ -1239,7 +1239,7 @@
       "price": 89.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 3,
+      "subcategory": 3,
       "image_url": "https://images.unsplash.com/photo-1545911825-1a1a91821015?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTcyfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress31.png"
     }
@@ -1254,7 +1254,7 @@
       "price": 47.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 2,
+      "subcategory": 2,
       "image_url": "https://images.unsplash.com/photo-1533659828870-95ee305cee3e?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTU2fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress32.png"
     }
@@ -1269,7 +1269,7 @@
       "price": 77.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 1,
+      "subcategory": 1,
       "image_url": "https://images.unsplash.com/photo-1609533928169-4ca295689762?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTU0fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress33.png"
     }
@@ -1284,7 +1284,7 @@
       "price": 103.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 3,
+      "subcategory": 3,
       "image_url": "https://images.unsplash.com/photo-1565324687254-d76f7c51a777?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTc2fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress34.png"
     }
@@ -1299,7 +1299,7 @@
       "price": 87.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 3,
+      "subcategory": 3,
       "image_url": "https://images.unsplash.com/photo-1602185948056-7a517148a391?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTgzfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "image": "dress35.png"
     }
@@ -1314,7 +1314,7 @@
       "price": 57.99,
       "has_sizes": true,
       "category": 2,
-      "sub_category": 1,
+      "subcategory": 1,
       "image_url": "https://images.unsplash.com/photo-1548867568-8e973afb8fba?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTg3fDIxODQ4NTEwfHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
       "image": "dress36.png"
     }
@@ -1323,896 +1323,960 @@
     "pk": 89,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005870183",
-      "name": "Made For Life Mesh Jacket - Plus",
-      "description": "Layer our moisture-wicking mesh jacket over a tee or tank for breathable comfort all day long. Quick-Dri moisture-wicking fabric helps keep you dry front pockets approx. 27\" - 28\" length polyester washable imported",
-      "price": 52.99,
-      "category": 1,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0724201517031934M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0724201517031934M.jpg"
+      "sku": "acc00001",
+      "name": "Black Magic",
+      "description": "Stunning black beaded and teal fringe with pearl centre. For pierced ears. ",
+      "price": 24.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 11,
+      "image_url": "https://images.unsplash.com/photo-1588568002541-bfceb92f1c8f?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NjF8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel1.png"
     }
   },
   {
     "pk": 90,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005870599",
-      "name": "Stafford Travel Brown Check Suit Jacket - Classic Fit",
-      "description": "Our brown check suit jacket updates your formal look with a easy-to-match pattern and a resilient fabric that wont get road-weary. crease-resistant and resilient fabric classic fit notch lapel 2-button front slant chest pocket front flap pockets 3 interior pockets (1 with triangle flap) fully lined side vents shell: wool/polyester body and sleeve lining: polyester dry clean only imported",
-      "price": 244.99,
-      "category": 3,
-      "rating": 4.4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0721201517041500M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0721201517041500M.jpg"
+      "sku": "acc00002",
+      "name": "Golden Leaf",
+      "description": "Gold leaf with blue gold and pearl beading",
+      "price": 29.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 11,
+      "image_url": "https://images.unsplash.com/photo-1588568002541-bfceb92f1c8f?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NjF8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel2.png"
     }
   },
   {
     "pk": 91,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005870638",
-      "name": "Arizona Raglan-Sleeve Thermal Pullover",
-      "description": "Weather the season in sporty style with this slub thermal pullover, featuring a v-notched crewneck and contrasting raglan sleeves. Available in a variety of jeans-friendly colors. crewneck with v-notch long sleeves tarragon lt grey heather, lt grey heather/oatmeal, charcoal/lt grey heather: cotton/polyester all other colors: 100% cotton washable imported ",
-      "price": 33.99,
-      "category": 9,
-      "rating": 4.4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0724201517024000M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0724201517024000M.jpg"
+      "sku": "acc00003",
+      "name": "Gold Trio",
+      "description": "Trio of 24carat gold delicate bangles that beautifully complement each other",
+      "price": 44.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 13,
+      "image_url": "https://images.unsplash.com/photo-1608543837489-0fab463c925e?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NDB8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel3.png"
     }
   },
   {
     "pk": 92,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005910565",
-      "name": "Made For Life Long-Sleeve Flyaway Cardigan",
-      "description": "Pull your look together with our fluid, fine-gauge knit flyaway cardigan, an easy-going, lightweight layer for all your casual looks. cotton/polyester washable imported",
-      "price": 50.99,
-      "category": 1,
-      "rating": 4.3,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0731201517031510M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0731201517031510M.jpg"
+      "sku": "acc00004",
+      "name": "Bluebell",
+      "description": "Stunning blue and clear crystals set in gold, drop earrings. For pierced ears",
+      "price": 32.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 11,
+      "image_url": "https://images.unsplash.com/photo-1602257957881-620e833fef76?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NjV8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel5.png"
     }
   },
   {
     "pk": 93,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005930313",
-      "name": "Stafford Flannel Pajama Set - Big & Tall",
-      "description": "This long-sleeve, flannel pajama set brings brushed cotton warmth to your cold-weather nights. includes top and pants washed for extra softness & reduced shrinkage notch collar long sleeves elastic waist with drawstring 100% cotton washable imported",
-      "price": 70.99,
-      "category": 3,
-      "rating": 4.9,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0807201517015600M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0807201517015600M.jpg"
+      "sku": "acc00005",
+      "name": "Half Moon",
+      "description": "Trio of 24 carat gold chains with gemstome embellishments.",
+      "price": 49.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 12,
+      "image_url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NDF8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel6.png"
     }
   },
   {
     "pk": 94,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005940242",
-      "name": "Arizona Flannel Shirt - Preschool Boys 4-7",
-      "description": "This comfy flannel shirt is a cool-weather essential that welcomes chilly days with bright colors and fresh style. button front long sleeves 2 chest pockets 100% cotton washable imported",
-      "price": 31.99,
-      "category": 9,
-      "rating": 3.7,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0731201517024285M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0731201517024285M.jpg"
+      "sku": "acc00006",
+      "name": "Silver Braid",
+      "description": "Chunky metal braided chain",
+      "price": 25.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 12,
+      "image_url": "https://images.unsplash.com/photo-1595350072557-6a6fbced4c2f?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NDR8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel8.png"
     }
   },
   {
     "pk": 95,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005940299",
-      "name": "Vieste Green Stone Statement Necklace",
-      "description": "Give any dress a sultry splash of style with this green stone statement necklace that's sure to get you noticed. Metal: Gold-tone metal Stones: Glass stones Closure: Lobster clasp Dimensions: 18\" long chain with 3\" extender Jewelry photos are enlarged to show detail.",
-      "price": 42.99,
-      "category": 3,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0810201517010458M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0810201517010458M.jpg"
+      "sku": "acc00007",
+      "name": "The Golden Circle",
+      "description": "Beautiful 24 carat gold earrings. For pierced ears.",
+      "price": 29.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 11,
+      "image_url": "https://images.unsplash.com/photo-1535556116002-6281ff3e9f36?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTR8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel0.png"
     }
   },
   {
     "pk": 96,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005941612",
-      "name": "Bonnie Jean Plaid Dress and Cardigan - Girls Plus",
-      "description": "Getting all dolled up is fun with this festive, twirlable dress and coordinating cardigan from Bonnie Jean. includes dress and cardigan dress: scoopneck, sleeveless, front bow cardigan: long sleeves, velvet dress: polyester/metallic cardigan: polyester/spandex machine wash, line dry imported",
-      "price": 92.99,
-      "category": 3,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0805201517023421M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0805201517023421M.jpg"
+      "sku": "acc00008",
+      "name": "Rose Drop",
+      "description": "Delicate rose gold chain duo with pendants",
+      "price": 42.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 12,
+      "image_url": "https://images.unsplash.com/photo-1610694955371-d4a3e0ce4b52?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NDN8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel11.png"
     }
   },
   {
     "pk": 97,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005980058",
-      "name": "Arizona Quilted Sweatshirt - Toddler Girls 2t-5t",
-      "description": "The quilted comfort and glittery style of this colorful sweatshirt make it the perfect grab-and-go look all season long. crewneck long sleeves quilted glitter detail cotton/polyester washable imported",
-      "price": 26.99,
-      "category": 3,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0917201520473680C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0917201520473680C.jpg"
+      "sku": "acc00009",
+      "name": "Eye Spy",
+      "description": "Gold hoops with gold and glass eye detail. For pieced ears",
+      "price": 22.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 11,
+      "image_url": "https://images.unsplash.com/photo-1572438468702-6ef505497aa1?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NjN8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel12.png"
     }
   },
   {
     "pk": 98,
     "model": "products.product",
     "fields": {
-      "sku": "pp5005980146",
-      "name": "Arlee Jada Plaid Set of 4 Placemats",
-      "description": "With festive colors and a classic plaid design, these placemats help create an inviting atmosphere for meals all season long. easy-care fabric set of 4 cotton/polyester each measures 19x13\" washable imported.",
-      "price": 58.99,
-      "category": 7,
-      "rating": 4.5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0820201517013830M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0820201517013830M.jpg"
+      "sku": "acc00010",
+      "name": "Pearl Blossom",
+      "description": "Large pearl blossom studs. For pierced ears.",
+      "price": 22.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 11,
+      "image_url": "https://images.unsplash.com/photo-1578432160035-55bf847be22f?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTh8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel13.png"
     }
   },
   {
     "pk": 99,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006070077",
-      "name": "St. John's Bay Short-Sleeve Polo Shirt - Plus",
-      "description": "Get active in the cool breathability of our short-sleeve piqu knit polo shirt. open-front placket cotton/spandex washable imported",
-      "price": 29.99,
+      "sku": "acc00011",
+      "name": "Links of Love",
+      "description": "24 carat gold chain link bracelet.",
+      "price": 47.99,
+      "has_sizes": false,
       "category": 5,
-      "rating": 4.4,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0903201517023529M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0903201517023529M.jpg"
+      "subcategory": 13,
+      "image_url": "https://images.unsplash.com/photo-1602527428055-a2526fabdc9f?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTF8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel14.png"
     }
   },
   {
     "pk": 100,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006081758",
-      "name": "Stylus Crossover Ankle Pants",
-      "description": "Youll find so many ways to wear our slim-fit stretch-twill cropped pantsdressed up or down, to the office or on the weekendyou might want more than one pair. flat front hook-and-bar with zip closure 2 front slash pockets 2 back welt pockets cotton/spandex washable imported misses: 28\" inseam petite: 26\" inseam",
-      "price": 53.99,
-      "category": 4,
-      "rating": 4.8,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0908201517020936M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0908201517020936M.jpg"
+      "sku": "acc00012",
+      "name": "Lady in Pink",
+      "description": "Pink beading and tassle and gold detailing around an enamel lady",
+      "price": 25.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 11,
+      "image_url": "https://images.unsplash.com/photo-1608613381851-6a058de0dc11?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NjR8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel15.png"
     }
   },
   {
     "pk": 101,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006082011",
-      "name": "Stafford Non-Iron Cotton Oxford Dress Shirt - Big & Tall",
-      "description": "Enjoy the unparalleled fit and comfort of a classic with this 100% cotton oxford dress shirt from Stafford. non-iron performance fused collar, cuffs and front placket stay crisp and neat right out of the dryer specially sewn seams to lay flat and resist puckering button-down collar reinforced cross-stitched buttons are extremely durable chest pocket adjustable cuffs side gusset long shirttail that stays tucked cotton washable imported",
-      "price": 72.99,
-      "category": 9,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0828201517024772M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0828201517024772M.jpg"
+      "sku": "acc00013",
+      "name": "Envy",
+      "description": "Green enamel bangle with diamantes and gold trim ",
+      "price": 47.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 13,
+      "image_url": "https://images.unsplash.com/photo-1602751584581-2e0372975b46?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTN8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel16.png"
     }
   },
   {
     "pk": 102,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006150186",
-      "name": "a.n.a Long-Sleeve Colorblock Sweater",
-      "description": "Prepare to get ultra-cozy in our luxuriously soft tri-tone colorblock sweater. crewneck ribbed hem and cuffs approx 27\" - 29\" front length 100% nylon machine wash, dry flat imported",
-      "price": 71.99,
-      "category": 3,
-      "rating": 4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0930201517050189M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0930201517050189M.jpg"
+      "sku": "acc00015",
+      "name": "Chain of Fools",
+      "description": "Long, layered, 24 carat gold chain with pendant",
+      "price": 49.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 12,
+      "image_url": "https://images.unsplash.com/photo-1603298333647-ed142dbbc9d9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NDZ8MjE4NDg1MTB8fGVufDB8fHw%3D&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel18.png"
     }
   },
   {
     "pk": 103,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006153172",
-      "name": "Stafford Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt - Big & Tall",
-      "description": "This Stafford everyday dress shirt is a wardrobe staple featuring our commitment to quality and wearability. easy care performance specially sewn seams to lay flat and resist puckering point collar reinforced cross-stitched buttons are extremely durable chest pocket cotton/polyester washable imported",
-      "price": 55,
-      "category": 3,
-      "rating": 4.2,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1002201517022007M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1002201517022007M.jpg"
+      "sku": "acc00016",
+      "name": "Mother of Pearls",
+      "description": "Long, wrap style mother of pearl necklace.",
+      "price": 51.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 12,
+      "image_url": "https://images.unsplash.com/photo-1590455209730-25a477555e17?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NDV8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel19.png"
     }
   },
   {
     "pk": 104,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006160127",
-      "name": "Gloria Vanderbilt Amanda Jeans - Plus",
-      "description": "You'll love the flattering look and comfortable fit of our classic five-pocket jeans from Gloria Vanderbilt. mid rise straight leg 30\" inseam white, cherry blossom: cotton/spandex antiqua ticking stripe: cotton/polyester/spandex washable imported",
-      "price": 52.99,
-      "category": 6,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1230201520420777C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1230201520420777C.jpg"
+      "sku": "acc00017",
+      "name": "Fit for a Queen",
+      "description": "Swarovski crystals set in 24 carat gold.",
+      "price": 79.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 11,
+      "image_url": "https://images.unsplash.com/photo-1588891805983-fee12d508e31?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTV8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel20.png"
     }
   },
   {
     "pk": 105,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006160833",
-      "name": "Made For Life Polar Fleece Vest",
-      "description": "Add a lightweight layer of warmth to any outfit with our soft and plush plaid polar fleece vest. zip front front pockets polyester washable imported misses: approx. 26\" - 28\" front length petite: approx. 23\" - 25\" front length",
-      "price": 30.99,
-      "category": 1,
-      "rating": 4.8,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0929201502575389M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0929201502575389M.jpg"
+      "sku": "acc00018",
+      "name": "Glamourpuss",
+      "description": "Art deco style with Swarovski crystals set in 24 carat gold.",
+      "price": 79.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 11,
+      "image_url": "https://images.unsplash.com/photo-1588891825655-aa526b56f805?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTZ8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel22.png"
     }
   },
   {
     "pk": 106,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006170128",
-      "name": "Frank and Lulu Holland Park Comforter Set",
-      "description": "Whimsical embroidered floral medallions give this comforter set a cute look for someone special in your home. scalloped ribbon appliqu cotton/polyester with polyester fill washable twin comforter: 66x86\" full comforter: 78x88\" imported 2-piece twin sets include: comforter sham 3-piece full sets include: comforter 2 shams Coordinating accessories sold separately. Twin and full sets include standard sham(s).",
-      "price": 166.99,
-      "category": 2,
-      "rating": 4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0921201517052807M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0921201517052807M.jpg"
+      "sku": "acc00019",
+      "name": "Blue Planet",
+      "description": "Sterling silver and blue drop earrings. ",
+      "price": 79.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 11,
+      "image_url": "https://images.unsplash.com/photo-1583837874711-67f6e846aeba?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NjZ8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel23.png"
     }
   },
   {
     "pk": 107,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006170131",
-      "name": "Frank and Lulu Layne Sheet Set",
-      "description": "This soft sheet set is sure to keep any bed looking great for a special someone in your home. fitted sheet fits mattresses up to 15\" deep cotton washable imported 3-piece twin sets include: flat sheet fitted sheet pillowcase 4-piece full sets include: flat sheet fitted sheet 2 pillowcases Twin set includes standard pillowcase. Queen set includes two standard pillowcases.",
-      "price": 71.99,
-      "category": 2,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0921201517052786M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0921201517052786M.jpg"
+      "sku": "acc00020",
+      "name": "Snake Eyes",
+      "description": "Snake bracelet with black gemstones, 24 carat gold and emerald eyes.",
+      "price": 99.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 13,
+      "image_url": "https://images.unsplash.com/photo-1612437830721-4f8eab90c5a9?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NDh8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "jewel24.png"
     }
   },
   {
     "pk": 108,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006170357",
-      "name": "Jamaica Bay Printed Micro Volley Swim Trunks",
-      "description": "From swimming to sand volleyball, enjoy easy movement in these microfiber swim trunks from Jamaica Bay. Available in a variety of bold, tropical prints. elastic waist with drawstring side-seam pockets mesh brief 7\" inseam polyester washable imported",
-      "price": 60.99,
-      "category": 4,
-      "rating": 3.7,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1014201517031451M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1014201517031451M.jpg"
+      "sku": "acc00021",
+      "name": "True Blue",
+      "description": "Black cut out cat eye frames with blue mirrored lenses.",
+      "price": 34.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1522774427228-a432fd7d9dff?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NzR8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun1.png"
     }
   },
   {
     "pk": 109,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006200155",
-      "name": "Arizona Raglan Henley Tee - Boys 8-20",
-      "description": "Contrasting sleeves and a quarter placket lend sporty style to this cotton-rich raglan tee. 3-button placket long sleeves cotton/polyester washable imported",
+      "sku": "acc00022",
+      "name": "Pretty in Pink",
+      "description": "Gold aviator frames woth pink mirrored lenses.",
       "price": 29.99,
-      "category": 3,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1021201517031368M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1021201517031368M.jpg"
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1503434093675-b3a674c0b3e0?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NzV8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun2.png"
     }
   },
   {
     "pk": 110,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006200658",
-      "name": "Brooklyn Xpress Fleece Jogger Pants",
-      "description": "Contrasting color accents help your cool-weather looks pop with these fleece joggers from Brooklyn Xpress. relaxed fit drawstring waist cuffed bottom polyester washable imported",
-      "price": 53.99,
-      "category": 3,
-      "rating": 4.8,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1016201517075816M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1016201517075816M.jpg"
+      "sku": "acc00023",
+      "name": "Jaylo",
+      "description": "Teal and red glitter, bakelite, oversized frames with ombre lenses",
+      "price": 37.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1556015048-4d3aa10df74c?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODF8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun3.png"
     }
   },
   {
     "pk": 111,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006241766",
-      "name": "Bob Marely 1976 T-Shirt",
-      "description": "Get yourself in a Jamaican state of mind with this tee featuring music legend Bob Marley. crewneck polyester/cotton/rayon washable imported",
-      "price": 29.99,
-      "category": 9,
-      "rating": 1,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1022201517023782M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1022201517023782M.jpg"
+      "sku": "acc00024",
+      "name": "Assassin",
+      "description": "Red cat eye frames and blackout lenses.",
+      "price": 32.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1555777710-1b3551d16971?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NzF8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun4.png"
     }
   },
   {
     "pk": 112,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006242155",
-      "name": "Diamond 24-pc. Bath Towel Set",
-      "description": "This is a great everyday bath towel set in a traditional size and weight for those who don't like heavy, oversized towels. Each piece features a decorative honeycomb border. soft and absorbent cotton washable imported 24-pc. set includes: eight bath towels measuring 24x50\" eight hand towels measuring 16x27\" eight wash towels measuring 12x12\"",
-      "price": 139.99,
-      "category": 2,
-      "rating": 3,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1112201517050819M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1112201517050819M.jpg"
+      "sku": "acc00025",
+      "name": "Hepburn",
+      "description": "Peach tinted frames with gold embellishments",
+      "price": 27.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1508296695146-257a814070b4?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NzJ8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun5.png"
     }
   },
   {
     "pk": 113,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006242904",
-      "name": "Arizona Raglan T-Shirt",
-      "description": "Heathered raglan tee from Arizona has a soft look (and even softer feel) that pairs perfectly with denim. crewneck raglan sleeves cotton/polyester washable imported",
-      "price": 23.99,
-      "category": 9,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1104201517020304M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1104201517020304M.jpg"
+      "sku": "acc00026",
+      "name": "Tatu",
+      "description": "Round silver frames with blackout lenses.",
+      "price": 25.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1542596768-97135a93857e?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Nzl8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun6.png"
     }
   },
   {
     "pk": 114,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006242905",
-      "name": "Arizona Pocket T-Shirt",
-      "description": "Arizona makes casual comfort easy with this pocket tee that has you looking good. crewneck chest pocket cotton/polyester washable imported ",
-      "price": 24.99,
-      "category": 9,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1106201517012318M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1106201517012318M.jpg"
+      "sku": "acc00027",
+      "name": "Vanessa",
+      "description": "Tortise shell, cat eye frames with medium dark lenses.",
+      "price": 29.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1577744486770-020ab432da65?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NzN8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun7.png"
     }
   },
   {
     "pk": 115,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006243106",
-      "name": "Liz Claiborne City-Fit Skinny Jeans - Plus",
-      "description": "Look the part of the urban fashionista in our skinny jeans that sit below the waist and are fitted through the hip and thigh. 5-pocket styling cotton/polyester/spandex washable imported plus: 31\" inseam plus short: 29\" inseam",
-      "price": 58.99,
-      "category": 4,
-      "rating": 4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1104201517021565M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1104201517021565M.jpg"
+      "sku": "acc00028",
+      "name": "California Girl",
+      "description": "Round yellow frames with dark lenses",
+      "price": 27.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1580340572874-f428298f4640?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NzB8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun8.png"
     }
   },
   {
     "pk": 116,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006243276",
-      "name": "Nike Dri-FIT Base Layer Tights",
-      "description": "These Nike tights provide the comfort and mobility that help you to maximize your workout. elastic waistband compression fit moisture wicking polyester/spandex washable imported",
-      "price": 41,
-      "category": 4,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0216201620412947C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0216201620412947C.jpg"
+      "sku": "acc00029",
+      "name": "Mellow Yellow",
+      "description": "White frames with oversized, yellow, cat eye lenses.",
+      "price": 34.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1539784259147-c586d7ae2226?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Nzh8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun9.png"
     }
   },
   {
     "pk": 117,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006280064",
-      "name": "Clarks Lexi Alloy Slide Strap Sandals",
-      "description": "The OrthoLite cushioned footbed on these strap sandals make it possible for a cute and comfortable walk. technology Cushion Soft technology offers softness you can feel from your first step, long-lasting comfort and fit with minimal cushion compression optimal breathability via open-cell technology OrthoLite cushioned footbed absorbs impact and offers breathability, moisture management and is antimicrobial construction leather upper EVA sole details 2.25 heel",
-      "price": 113.99,
-      "category": 8,
-      "rating": 4.8,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1105201517015618M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1105201517015618M.jpg"
+      "sku": "acc00030",
+      "name": "Nikkita",
+      "description": "Oversized round frames with dark tinted, extended cat eye lenses",
+      "price": 33.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1526569188684-0bb8b5a4a2ae?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NzZ8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun11.png" 
     }
   },
   {
     "pk": 118,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006280190",
-      "name": "Liz Claiborne Long-Sleeve V-Neck Striped Tunic",
-      "description": "Our Liz Claiborne striped tunic gives you that comfortable fit with a modern flare hem with just the right amount of movement. v-neck long sleeves rayon/spandex washable imported",
-      "price": 44.99,
-      "category": 1,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1030201517035843M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1030201517035843M.jpg"
+      "sku": "acc00031",
+      "name": "Lost in Space",
+      "description": "Clear, round frames with mirrored lenses.",
+      "price": 27.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1563891217861-7924b471afb3?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8ODJ8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun12.png" 
     }
   },
   {
     "pk": 119,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006291997",
-      "name": "Xersion Colorblock Yoga Shorts - Girls 7-16 and Plus",
-      "description": "From the yoga studio to the couch, these yoga shorts will keep her comfy during all her daily activities and feature cool contrasted side panels for an extra bit of flair.  black/aqua/green: cotton/spandex gray/pink/orange: cotton/polyester/spandex washable imported",
-      "price": 19.99,
-      "category": 1,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1119201517043586M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1119201517043586M.jpg"
+      "sku": "acc00032",
+      "name": "Turquoise Skies",
+      "description": "Black and silver, square frames with mirrored turquoise lenses",
+      "price": 25.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1539422570273-640912b65f76?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Nzd8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun13.png"
     }
   },
   {
     "pk": 120,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006310072",
-      "name": "Vans Zone Bluts Short-Sleeve T-Shirt",
-      "description": "Classic style and modern day comfort collide with this fun tee from Vans. crewneck 100% cotton washable imported",
-      "price": 26.99,
-      "category": 9,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1124201517014225M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1124201517014225M.jpg"
+      "sku": "acc00033",
+      "name": "Betty Boo",
+      "description": "Pale pink frames with dark tinted lenses.",
+      "price": 28.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1596658660694-e3c482a9fb4f?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Njh8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun14.png"
     }
   },
   {
     "pk": 121,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006310446",
-      "name": "Xersion Short-Sleeve V-Neck Graphic Tee - Girls 7-16 and Plus",
-      "description": "Youre always a winner with this sporty graphic t-shirt that shows your love of soccer. cotton/polyester washable imported",
-      "price": 19.99,
-      "category": 1,
-      "rating": 4.4,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1222201517041287M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1222201517041287M.jpg"
+      "sku": "acc00034",
+      "name": "Boss Lady",
+      "description": "Oversized, tortoise frames with light tinted lense.",
+      "price": 36.99,
+      "has_sizes": false,
+      "category": 5,
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1605813808178-d98ed02529bf?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Njl8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun15.png"
     }
   },
   {
     "pk": 122,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006310918",
-      "name": "St. John's Bay Short-Sleeve V-Neck T-Shirt",
-      "description": "Our St. John's Bay t-shirt is loaded with classic style that matches your effortless approach to dressing well. v-neck short sleeves misses: approx. 26\" length petite: approx. 24\" length 100% cotton washable imported",
-      "price": 16.99,
+      "sku": "acc00035",
+      "name": "Blushing Zebra",
+      "description": "Rounded, black and pink striped frames with pink lenses. ",
+      "price": 29.99,
+      "has_sizes": false,
       "category": 5,
-      "rating": 4.6,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0405201620454892C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0405201620454892C.jpg"
+      "subcategory": 10,
+      "image_url": "https://images.unsplash.com/photo-1602532718373-f2edf8441506?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Njd8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "sun16.png"
     }
   },
   {
     "pk": 123,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006310935",
-      "name": "Alfred Dunner Denim Capris",
-      "description": "Approach jeans in a new way with our Alfred Dunner denim capris and their adorable outlook. elastic waistband slash pockets approx. 19\" inseam cotton/polyester/spandex washable imported",
-      "price": 41.99,
-      "category": 5,
-      "rating": 4.4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1202201502000682M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1202201502000682M.jpg"
+      "sku": "sho00001",
+      "name": "Bejazzled",
+      "description": "Tall, silver glitter boots. 2.5inch heel",
+      "price": 89.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 6,
+      "image_url": "https://images.unsplash.com/photo-1515651611506-82441fd1cf0e?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjAyfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "shoe1.png"
     }
   },
   {
     "pk": 124,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006311067",
-      "name": "Worthington Short-Sleeve Scoopneck T-Shirt - Tall",
-      "description": "Our Worthington t-shirt is a soft and feminine addition to your t-shirt collection and will quickly earn the position of favorite. scoopneck short sleeves approx. 27\" length polyester/ spandex washable imported",
-      "price": 49,
-      "category": 5,
-      "rating": 4.8,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1202201517021959M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1202201517021959M.jpg"
+      "sku": "sho00002",
+      "name": "Little Miss Sunshine",
+      "description": "Patent yellow leather, lace-up boots. ",
+      "price": 179.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 6,
+      "image_url": "https://images.unsplash.com/photo-1481729379561-01e43a3e1ed4?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTkyfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "shoe2.png"
     }
   },
   {
     "pk": 125,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006330197",
-      "name": "Stylus Flare Jeans",
-      "description": "Add a little retro to your wardrobe to create fashion fun with our Stylus flare jeans. high rise flare leg 5-pockets 32\" inseam cotton/polyester/rayon/spandex washable imported ",
-      "price": 60.99,
-      "category": 6,
-      "rating": 4.5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1202201517023245M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1202201517023245M.jpg"
+      "sku": "sho00003",
+      "name": "Two-Tone",
+      "description": "Two tone, grey and blue suede ankle boots. 3inch heel",
+      "price": 79.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 6,
+      "image_url": "https://images.unsplash.com/photo-1554219300-77dd3aa483c0?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjAxfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "shoe3.png"
     }
   },
   {
     "pk": 126,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006330208",
-      "name": "Marmellata Sleeveless Dotted Dress - Preschool Girls 4-6x",
-      "description": "This light and breezy sleeveless dress is great for any spring or summer occasion and features a dotted chiffon skirt and matching dotted rosette on the waistline for a cute, girly touch.  back-button closure sleeveless polyester hand wash, line dry imported",
-      "price": 69.99,
-      "category": 3,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1208201517020379M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1208201517020379M.jpg"
+      "sku": "sho00004",
+      "name": "Snake Charmer",
+      "description": "Thigh high, snake skin boots. 3inch heel",
+      "price": 84.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 6,
+      "image_url": "https://images.unsplash.com/photo-1542344147738-eb690be39b79?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OTN8MjE4NDg1MTB8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "shoe4.png"
     }
   },
   {
     "pk": 127,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006333711",
-      "name": "Levi's 527 Bootcut Jeans - Boys 8-20, Slim and Husky",
-      "description": "A favorite for easy wear, Levi's 527 bootcut jeans are loose for a comfortable fit through the seat and thigh. They sit low on the waist and tilt higher in back.  5-pocket sits below waist leg opening approx. 17\" bootcut fit cotton washable imported",
-      "price": 48.99,
-      "category": 6,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0726201317024762M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0726201317024762M.jpg"
+      "sku": "sho00005",
+      "name": "Yellow Belly",
+      "description": "Yellow High top converse trainers.",
+      "price": 75.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 5,
+      "image_url": "https://images.unsplash.com/photo-1512654755163-0f342db4466f?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTQ5fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "shoe5.png"
     }
   },
   {
     "pk": 128,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006340653",
-      "name": "Mixit Whitney Leggings - Tall",
-      "description": "Pair anything with these leggings and be on your way. wide waist cotton/spandex washable imported",
-      "price": 30.99,
-      "category": 8,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1109201517012575M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1109201517012575M.jpg"
+      "sku": "sho00006",
+      "name": "Graphic Nike",
+      "description": "Graphic Print Nike Trainers",
+      "price": 129.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 5,
+      "image_url": "https://images.unsplash.com/photo-1610899146640-f77e17056248?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTkzfDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "shoe6.png"
     }
   },
   {
     "pk": 129,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006370013",
-      "name": "Mixit Side Flower Jelly Strap Sandals",
-      "description": "Classic flip flops get a gorgeous update with a flower on the strap. synthetic upper synthetic sole",
-      "price": 26.99,
-      "category": 8,
-      "rating": 4.3,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0105201617024447M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0105201617024447M.jpg"
+      "sku": "sho00007",
+      "name": "Little Red",
+      "description": "Red leather, platform sole and stiletto heel.",
+      "price": 72.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://images.unsplash.com/photo-1583479790136-d50b310883b9?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTk2fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "shoe7.png"
     }
   },
   {
     "pk": 130,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006380233",
-      "name": "Arizona Racerback Tank - Juniors Plus",
-      "description": "Whether you like them layered or alone, our Arizona racerback tank top is a great addition to your tank collection. roundneck racerback sleeveless approx. 26\" length polyester washable imported",
-      "price": 21.99,
-      "category": 5,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0119201620405230C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0119201620405230C.jpg"
+      "sku": "sho00008",
+      "name": "Blue Bouquet",
+      "description": "Blue satin heels with flower pattern",
+      "price": 69.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjA0fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "shoe8.png"
     }
   },
   {
     "pk": 131,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006380260",
-      "name": "St. John's Bay Long-Sleeve Camp Shirt",
-      "description": "Our St. John's Bay camp shirt is a real classic and is the perfect choice for many occasions. collar double yoke in back with pleat long sleeves with roll cuffs button front chest pockets button hem approx. 27\" length 100% cotton washable imported ",
-      "price": 42.99,
-      "category": 5,
-      "rating": 4.4,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0224201620571013C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0224201620571013C.jpg"
+      "sku": "sho00009",
+      "name": "Black Booties",
+      "description": "Black open booties with hole punch design and stiletto heel",
+      "price": 64.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://images.unsplash.com/photo-1559334418-e64baa168b1a?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTk1fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "shoe9.png"
     }
   },
   {
     "pk": 132,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006380337",
-      "name": "Alfred Dunner Essential Pull On Capri Pant",
-      "description": "You'll return to our Alfred Dunner pull-on capris again and again when you want an updated, casual look and all the comfort you love.  elastic waistband approx. 19-21\" inseam slash pockets polyester washable imported   ",
-      "price": 41.99,
-      "category": 4,
-      "rating": 4.7,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1228201517142050M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1228201517142050M.jpg"
+      "sku": "sho00010",
+      "name": "Bow Peep",
+      "description": "Satin pink, sling backs with kitten heel",
+      "price": 49.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://images.unsplash.com/photo-1611781793028-d6a9cabb5d82?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTk3fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "shoe10.png"
     }
   },
   {
     "pk": 133,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006380693",
-      "name": "Worthington Tipped Envelope Skirt - Tall",
-      "description": "Update your professional wardrobe or add some style to your casual look with our Worthington envelope skirt.  concealed side zipper 29\" inseam polyester/spandex washable imported",
-      "price": 53.99,
-      "category": 3,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1218201517095959M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1218201517095959M.jpg"
+      "sku": "sho00011",
+      "name": "Mono Mono",
+      "description": "Monochrome ankle boots with block heel",
+      "price": 54.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 6,
+      "image_url": "https://images.unsplash.com/photo-1576717663295-9ee103fbe229?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTk5fDIxODQ4NTEwfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image": "shoe11.png"
     }
   },
   {
     "pk": 134,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006390235",
-      "name": "Stylus Destructed Roll-Cuff Boyfriend Crop Jeans",
-      "description": "Made for her but designed like his, our roll-cuff boyfriend jeans feature a flattering fit you'll love with a relaxed, destructed styling. button-and-zip fly closure contoured waistband 5-pocket styling misses: 26\" inseam tall: 29\" inseam cotton/elastane washable imported",
-      "price": 58.99,
-      "category": 6,
-      "rating": 4.5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1223201517040398M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1223201517040398M.jpg"
+      "sku": "sho00012",
+      "name": "Croc Print",
+      "description": "Knee high, green, patent leather, croc embossed boots",
+      "price": 109.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 6,
+      "image_url": "https://images.unsplash.com/photo-1611583628161-ff51f47cc5d1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+      "image": "shoe12.png"
     }
   },
   {
     "pk": 135,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006420202",
-      "name": "a.n.a Roll-Cuff Skinny Ankle Jeans",
-      "description": "Stay true to your casual-chic style with our skinny ankle jeans for a modern take on a wardrobe staple.  slim fit mid rise 5-pocket styling shank button-and-zip closure shredded black: rayon/cotton/polyester/spandex white: cotton/polyester/rayon/spandex cloud grey: cotton/viscose/polyester/elastane other colors: cotton/rayon/polyester/spandex washable imported misses: 27\" inseam petites: 25\" inseam talls: 29\" inseam",
-      "price": 58.99,
-      "category": 4,
-      "rating": 4.7,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0304201620452035C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0304201620452035C.jpg"
+      "sku": "sho00013",
+      "name": "Wild West",
+      "description": "Brown leather, cowboy style boots with block heel. 100% real leather",
+      "price": 169.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 6,
+      "image_url": "https://cdn.pixabay.com/photo/2019/11/27/20/58/cowboy-boots-4657844_960_720.jpg",
+      "image": "shoe13.png"
     }
   },
   {
     "pk": 136,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006420400",
-      "name": "Bounce Comfort Plush Memory Foam Chenille Bath Mats",
-      "description": "With its ultra-comfortable BounceComfort technology and a modern design that fits any style, this bath mat set offers comfort and support for your feet. BounceComfort memory foam technology cushions your feet with exceptional softness and support stain-resistant microfiber surface is easy to clean reinforced trim helps maintain shape and stability polyester with latex backing washable imported",
-      "price": 34.99,
-      "category": 2,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0126201620545687C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0126201620545687C.jpg"
+      "sku": "sho00014",
+      "name": "Snow White",
+      "description": "White satin shoes with strap.",
+      "price": 89.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2016/06/04/02/04/bridal-shoes-1434864_960_720.jpg",
+      "image": "shoe14.png"
     }
   },
   {
     "pk": 137,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006430031",
-      "name": "Disney Minnie Mouse Girls Athletic Shoes - Toddler",
-      "description": "Tickle her fancy with the bows and polka dots that adorn our positively precious Minnie Mouse athletic shoes. construction synthetic upper rubber sole details self-adhesive closure fun embellishments easy pull-on tab",
-      "price": 42,
-      "category": 8,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0107201603172435M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0107201603172435M.jpg"
+      "sku": "sho00015",
+      "name": "Sea Breeze",
+      "description": "Patent blue and aqua peeptoe shoes with gold insole and stiletto heel",
+      "price": 59.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2015/12/04/07/34/heels-1076179_960_720.jpg",
+      "image": "shoe15.png"
     }
   },
   {
     "pk": 138,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006462180",
-      "name": "Worthington 3/4-Sleeve Open-Front Cardigan Sweater",
-      "description": "Add a splash of color to your warm-weather wardrobe with our supremely soft open-front cardigan sweater, complete with stripes of pointelle trim for extra breathability. 3/4 sleeves approx. 22\" - 24\" body length acrylic machine wash, dry flat imported",
-      "price": 66,
-      "category": 5,
-      "rating": 4.7,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1216201517030998M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1216201517030998M.jpg"
+      "sku": "sho00016",
+      "name": "Caribbean Dream",
+      "description": "Patent turquoise court shoe.",
+      "price": 45.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2015/01/21/03/03/high-heels-606308_960_720.jpg",
+      "image": "shoe16.png"
     }
   },
   {
     "pk": 139,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006470681",
-      "name": "Champion Vapor Muscle Tank - Plus",
-      "description": "Keep cool and dry during your workout in our muscle tank, made from Champion Vapor moisture-wicking fabric and featuring Fresh IQ technology for odor protection. Champion Vapor technology Fresh IQ technology targeted ventilation for breathability chafe-resistant flatlock seams reflective detail for visibility crewneck polyester washable imported",
-      "price": 28.99,
+      "sku": "sho00017",
+      "name": "Pink Platorm",
+      "description": "Wedge, platform, lace-up boot with velcro strap in pink",
+      "price": 49.99,
+      "has_sizes": true,
       "category": 1,
-      "rating": 3,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0217201617084849M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0217201617084849M.jpg"
+      "subcategory": 5,
+      "image_url": "https://cdn.pixabay.com/photo/2017/09/20/17/24/shoe-2769342_960_720.png",
+      "image": "shoe17.png"
     }
   },
   {
     "pk": 142,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006511030",
-      "name": "Xersion Mesh-Back Tank Top - Plus",
-      "description": "Power through your workout with our quick dry tank top with mesh back for ventilation. quick dry no chafe seams mesh back for ventilation polyester/spandex washable imported",
-      "price": 35.99,
+      "sku": "sho00018",
+      "name": "Green Sateen",
+      "description": "Green satin, side cut out heels",
+      "price": 52.99,
+      "has_sizes": true,
       "category": 1,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0309201620474626C.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0309201620474626C.jpg"
+      "subcategory": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2019/04/11/20/29/shoe-4120554_960_720.jpg",
+      "image": "shoe18.png"
     }
   },
   {
     "pk": 143,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006541122",
-      "name": "Arizona Cropped Jeans with Belt - Girls 7-16 and Plus",
-      "description": "Great for those warmer weather days and a fantastic fit for a number of looks, these cropped jeans include an adjustable belt and can be paired with a tee on a casual day or worn with a blouse for a dressier look. 5 pocket design: 2 front pockets, 2 back pockets, 1 coin pocket button closure cuffed hem white: cotton/spandex all other colors: cotton/polyester/viscose/spandex washable imported",
-      "price": 43.99,
-      "category": 6,
-      "rating": 4.5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1211201503400830M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1211201503400830M.jpg"
+      "sku": "sho00019",
+      "name": "Queen of Hearts",
+      "description": "Grey ankle boot with metallic red and black print, red frill detail and stiletto heel",
+      "price": 69.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 6,
+      "image_url": "https://cdn.pixabay.com/photo/2019/10/28/17/28/shoe-4585071_960_720.jpg",
+      "image": "shoe19.png"
     }
   },
   {
     "pk": 144,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006590111",
-      "name": "Liz Claiborne City-Fit 5-Pocket Flared Cropped Jeans - Tall",
-      "description": "Get the modern-look you want in our city-fit jeans, with flared cropped legs to add a little extra style. sits below waist zip and button closure 5-pocket styling flared cropped leg 29\" inseam cotton/polyester/rayon/spandex washable imported",
-      "price": 64.99,
-      "category": 6,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1216201517031308M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1216201517031308M.jpg"
+      "sku": "sho00020",
+      "name": "Golddigger",
+      "description": "Pale gold, peep toe heels with gold glitter embellishments.",
+      "price": 63.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2014/09/16/15/31/shoes-448350_960_720.jpg",
+      "image": "shoe20.png"
     }
   },
   {
     "pk": 145,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006590213",
-      "name": "Presto Pizzazz Plus Rotating Oven",
-      "description": "The Presto Pizzazz Plus Rotating Oven offers you the convenience and versatility to bake frozen, homemade and take-and bake foods at home. It's a perfect for entertaining to prepare everything from chicken nuggets, egg rolls, cookies and more.  rotating tray turns continuously to assure even baking top and bottom heating elements are separately controlled and bake foods from both sides timer signals end of cooking time and automatically turns off saves 60% more energy than compared to a conventional oven nonstick pan is removable for easy cleanup Presto Pizzazz Plus Rotating Oven is aluminum. Removable pan is dishwasher-safe. Imported.",
-      "price": 90.99,
-      "category": 7,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81E48245M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "0900631B81E48245M.jpg"
+      "sku": "sho00021",
+      "name": "Shades of Green",
+      "description": "Strappy, shades of green and patterned straps, t-bar sandles.",
+      "price": 59.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2015/01/29/13/21/shoes-616111_960_720.jpg",
+      "image": "shoe21.png"
     }
   },
   {
     "pk": 146,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006590221",
-      "name": "Rachael Ray 10-pc. Hard-Anodized Cookware Set",
-      "description": "This 10-piece hard-anodized cookware set includes all the pans you need to equip your kitchen with the most versatile basics.  hard-anodized aluminum for durability and even-heating nonstick finish for easy cleanup comfortable, easy-grip handles are oven-safe up to 400F tempered glass lid lets you watch food cook without removing it to keep heat and moisture locked in 10-piece set includes: 1-quart saucepan with lid 2-quart saucepan with lid 6-quart stock pot with lid 3-quart saut pan with lid 8\" open skillet 10\" open skillet Aluminum/silicone. Hand wash. Imported.",
-      "price": 362.99,
-      "category": 7,
-      "rating": 4.5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81D6766FM.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "0900631B81D6766FM.jpg"
+      "sku": "sho00022",
+      "name": "Blue Lagoon",
+      "description": "Cobalt blue plastic strappy sandles. Made from 100% recycled plastic.",
+      "price": 53.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2015/11/05/13/33/shoes-1024204_960_720.jpg",
+      "image": "shoe22.png"
     }
   },
   {
     "pk": 147,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006620412",
-      "name": "Island Shores Short-Sleeve Printed Camp Shirt",
-      "description": "Grab our easygoing camp shirt for a casual look you can wear all day and night. point collar button down front pocket short sleeves rayon washable imported",
-      "price": 53.99,
-      "category": 4,
-      "rating": 4.3,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0218201621532296C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0218201621532296C.jpg"
+      "sku": "sho00023",
+      "name": "Wavey Jane",
+      "description": "Blue and green patterned court shoe with wood effect heel.",
+      "price": 58.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2016/03/23/15/44/shoes-1274989_960_720.jpg",
+      "image": "shoe23.png"
     }
   },
   {
     "pk": 148,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006640930",
-      "name": "Black+Decker Stainless Steel Rapid 2-Slice Toaster",
-      "description": "Known to be 50% faster than other models, this toaster delivers efficient, perfectly toasted bread with its extra-wide slots. extra lift to easily remove toast, bagels or other pastries wide self-centering slots automatically adjusts to size for even toasting variable thermostat allows 7 shade settings swing down crumb tray bagel, frozen and cancel button options 11.22x7.7x8.66\"H stainless steel housing wipe clean imported",
-      "price": 82.99,
-      "category": 7,
-      "rating": 4.7,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1016201517091568M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1016201517091568M.jpg"
+      "sku": "sho00024",
+      "name": "Forget Me Not",
+      "description": "Blue, suede effect heels with ribbon lace-up and tie straps",
+      "price": 63.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2018/09/19/16/06/shoes-3688890_960_720.jpg",
+      "image": "shoe24.png"
     }
   },
   {
     "pk": 149,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006660007",
-      "name": "Stylus Linen Crop Pants",
-      "description": "Whether you wear them for work or play, our comfortable pants look fresh and fashionable thanks to linen fabric and a cropped length. elastic waistband with drawstring 4 pockets straight leg 27\" inseam 100% linen washable imported",
-      "price": 53.99,
-      "category": 4,
-      "rating": 4.5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0310201620422443C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0310201620422443C.jpg"
+      "sku": "sho00025",
+      "name": "Golden Slipper",
+      "description": "Metallic gold, glitter effect heels with leopard print insole and stiletto heels.",
+      "price": 75.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2016/06/20/13/16/shoes-1468818_960_720.jpg",
+      "image": "shoe25.png"
     }
   },
   {
     "pk": 150,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006750455",
-      "name": "Carter's Short-Sleeve Shark Tee - Preschool Boys 4-7",
-      "description": "Featuring a fun little screen-printed shark, this short-sleeve tee by Carter's is perfect for your little one's wardrobe. ribbed neckline cotton/polyester washable imported",
-      "price": 19.99,
-      "category": 9,
-      "rating": 4,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0217201617074443M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0217201617074443M.jpg"
+      "sku": "sho00026",
+      "name": "Wikka Woo",
+      "description": "Baby blue, vintage style, lace up boots. 100% real leather",
+      "price": 85.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 6,
+      "image_url": "https://cdn.pixabay.com/photo/2019/10/11/20/47/shoes-4542693_960_720.jpg",
+      "image": "shoe26.png"
     }
   },
   {
     "pk": 151,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006790372",
-      "name": "Made for Life Secretly Slender Capri Leggings - Plus",
-      "description": "Add comfort and versatility to your wardrobe by incorporating these mid-rise capri leggings into the mix. 21\" inseam cotton/polyester/spandex washable imported",
-      "price": 46.99,
+      "sku": "sho00027",
+      "name": "Lemon Pie",
+      "description": "Yellow, cowboy style ankle boots with cutout detail and side zipper.",
+      "price": 55.99,
+      "has_sizes": true,
       "category": 1,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0316201621115243C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0316201621115243C.jpg"
+      "subcategory": 6,
+      "image_url": "https://cdn.pixabay.com/photo/2020/04/01/10/11/shoes-4990646_960_720.jpg",
+      "image": "shoe27.png"
     }
   },
   {
     "pk": 152,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006790745",
-      "name": "Arizona Raw-Edge Denim Bermuda Shorts - Juniors Plus",
-      "description": "Classic style meets raw edge to create a casual-chic denim essential of the season. regular fit low rise 5-pocket style 9\" inseam cotton/spandex washable imported",
-      "price": 48.99,
-      "category": 4,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201617024158M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0226201617024158M.jpg"
+      "sku": "sho00028",
+      "name": "Coco",
+      "description": "Two tone black shoe with gold toe and insole.",
+      "price": 54.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 4,
+      "image_url": "https://cdn.pixabay.com/photo/2013/09/01/18/12/womens-shoes-178163_960_720.jpg",
+      "image": "shoe28.png"
     }
   },
   {
     "pk": 153,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006820170",
-      "name": "Made For Life Short-Sleeve Print V-Neck Mesh T-Shirt - Tall",
-      "description": "You'll be ready to work out or relax in our weekend-friendly v-neck print mesh tee. mitered v-neckline moisture-wicking fabric approx. 27\" - 29\" length polyester washable imported",
-      "price": 31.99,
-      "category": 5,
-      "rating": 5,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1014201517033744M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP1014201517033744M.jpg"
+      "sku": "sho00029",
+      "name": "Roxy Boot",
+      "description": "Velvet look, hot pink ankle boots with side zipper and block heel",
+      "price": 59.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 6,
+      "image_url": "https://images.pexels.com/photos/784373/pexels-photo-784373.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image": "shoe29.png"
     }
   },
   {
     "pk": 154,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006820210",
-      "name": "Dockers Signature Classic-Fit Flat-Front Pants",
-      "description": "Dockers Signature Khaki flat-front pants are a classic step in the right direction.  no wrinkles color retention technology flat front with comfort waist zip fly with button closure double-welt, button-through back pockets wing & anchor logo embroidery permanent crease cotton washable imported ",
-      "price": 70,
-      "category": 5,
-      "rating": 4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201620313565C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0226201620313565C.jpg"
+      "sku": "sho00030",
+      "name": "",
+      "description": "",
+      "price": 57.99,
+      "has_sizes": true,
+      "category": 1,
+      "subcategory": 6,
+      "image_url": "",
+      "image": ""
     }
   },
   {
