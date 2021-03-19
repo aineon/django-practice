@@ -52,8 +52,8 @@
     "pk": 7,
     "model": "products.category",
     "fields": {
-      "name": "tops",
-      "friendly_name": "Tops"
+      "name": "tops_ts",
+      "friendly_name": "Tops & Ts"
     }
   },
    {

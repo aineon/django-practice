@@ -126,12 +126,30 @@
     }
  },
      {
-    "pk": 14,
+    "pk": 15,
     "model": "products.subcategory",
      "fields": {
       "name": "two_piece",
       "friendly_name": "Two Piece",
       "category": 4
+    }
+ },
+  {
+    "pk": 16,
+    "model": "products.subcategory",
+     "fields": {
+      "name": "tshitrs",
+      "friendly_name": "Ts",
+      "category": 7
+    }
+ },
+ {
+    "pk": 17,
+    "model": "products.subcategory",
+     "fields": {
+      "name": "tops",
+      "friendly_name": "Tops",
+      "category": 7
     }
  }
 ]

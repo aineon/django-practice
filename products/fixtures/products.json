@@ -2268,295 +2268,345 @@
     "pk": 154,
     "model": "products.product",
     "fields": {
-      "sku": "sho00030",
-      "name": "",
-      "description": "",
-      "price": 57.99,
+      "sku": "swi00001",
+      "name": "Bekka Bikini",
+      "description": "Peach halter neck, drawstring top and black and white patterned, full short bottoms",
+      "price": 35.99,
       "has_sizes": true,
-      "category": 1,
-      "subcategory": 6,
-      "image_url": "",
-      "image": ""
+      "category": 4,
+      "subcategory": 15,
+      "image_url": "https://images.unsplash.com/photo-1604599850855-041fb8dc3ebd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "image": "swim1.png"
     }
   },
   {
     "pk": 155,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006820299",
-      "name": "Stylus Long-Sleeve Back-Pleat Oversized Shirt- Petite",
-      "description": "Our Stylus oversized shirt takes a traditional shirt and gives it a huge dose of excitement with an interesting back pleat. collar long sleeves chest pocket button down back pleat misses: approx. 29\" length tall: approx. 31\" length 100% cotton washable imported",
-      "price": 58.99,
-      "category": 5,
-      "rating": 3,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0216201620424511C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0216201620424511C.jpg"
+      "sku": "swi00002",
+      "name": "White Out",
+      "description": "White, ribbed, one piece with mesh details.",
+      "price": 29.99,
+      "has_sizes": true,
+      "category": 4,
+      "subcategory": 14,
+      "image_url": "https://images.unsplash.com/photo-1608209788245-25188c59882a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "image": "swim2.png"
     }
   },
   {
     "pk": 156,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006820399",
-      "name": "Graham & Co. Dress Shirt, Tie and Pre-Tied Bow Tie",
-      "description": "Grab our dress shirt and one of the matching tie options for an on-the-go outfit that will look great. includes shirt, tie and pre-tied bow tie modern fit spread collar long sleeves 2\" wide cotton/polyeste ties: polyester washable imported",
-      "price": 78.99,
-      "category": 9,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0224201617043146M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0224201617043146M.jpg"
+      "sku": "swi00003",
+      "name": "Jenna",
+      "description": "Black and white striped halter top with hot pink pattern and black tie string bottoms.",
+      "price": 32.99,
+      "has_sizes": true,
+      "category": 4,
+      "subcategory": 15,
+      "image_url": "https://images.unsplash.com/photo-1559335185-5b7ddef49716?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "image": "swim3.png"
     }
   },
   {
     "pk": 157,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006870003",
-      "name": "Arizona Flex Skinny Jeans",
-      "description": "These jeans are a sleek alternative to the classic fit with a skinny profile that keeps you on the cutting edge. A bit of spandex in the mix ensures that you move in comfort. sits low on waist extra-slim fit through seat and thigh zip fly with button closure 5-pocket styling skinny leg cotton/spandex washable imported",
-      "price": 53.99,
-      "category": 6,
-      "rating": 1,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0722201517022951M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0722201517022951M.jpg"
+      "sku": "swi00004",
+      "name": "Aztec",
+      "description": "Bandeau style patterned top and matching low rise bottoms",
+      "price": 27.99,
+      "has_sizes": true,
+      "category": 4,
+      "subcategory": 15,
+      "image_url": "https://images.unsplash.com/photo-1566307364444-4c2c7037b078?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=602&q=80",
+      "image": "swim4.png"
     }
   },
   {
     "pk": 158,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006950238",
-      "name": "Worthington Embroidered Tank Top - Tall",
-      "description": "Our tank top features embroidered details on the chest and shoulders for an extra-girly finishing touch. roundneck embroidered details 31\" front length polyester washable imported",
-      "price": 52.99,
-      "category": 8,
-      "rating": 4,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0325201617032503M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0325201617032503M.jpg"
+      "sku": "swi00005",
+      "name": "Frill Me",
+      "description": "Teal 2 piece with orange trim, frill top and tie string, high waisted bottoms.",
+      "price": 38.99,
+      "has_sizes": true,
+      "category": 4,
+      "subcategory": 15,
+      "image_url": "https://images.unsplash.com/photo-1605749429052-4eb49f89eddc?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80",
+      "image": "swim5.png"
     }
   },
   {
     "pk": 159,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006960828",
-      "name": "Made for Life Mesh Shorts - Tall",
-      "description": "Our mesh shorts feature moisture-wicking fabric and side vents to keep you cool and dry while you work out. elastic waist with inside drawstring straight leg relaxed fit mid rise 7 \" inseam washable polyester imported",
-      "price": 24.99,
-      "category": 8,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0322201617031084M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0322201617031084M.jpg"
+      "sku": "swi00006",
+      "name": "Blue Steel",
+      "description": "Metallic blue, ribbed, 2 piece. Bandeau style top with drop sleeves and tie string, low rise bottoms.",
+      "price": 32.99,
+      "has_sizes": true,
+      "category": 4,
+      "subcategory": 15,
+      "image_url": "https://images.unsplash.com/photo-1606434468519-1845987bf2e6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "image": "swim6.png"
     }
   },
   {
     "pk": 160,
     "model": "products.product",
     "fields": {
-      "sku": "pp5006990785",
-      "name": "Worthington Slim-Fit Cropped Pants",
-      "description": "Add some flair to your professional style with our slim-fit cropped pants, featuring front zipper pockets and side-slits near the ankles. mid rise slim fit front hook-and-bar closure with inside stay-button two front zipper pockets misses: 23\" inseam petite: 21\" inseam rayon/nylon/spandex machine wash, dry flat imported",
-      "price": 43.99,
+      "sku": "swi00007",
+      "name": "Tropicana",
+      "description": "Blue and white patterned one peice with side panel cut outs and halter neck.",
+      "price": 39.99,
+      "has_sizes": true,
       "category": 4,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0322201617031125M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0322201617031125M.jpg"
+      "subcategory": 14,
+      "image_url": "https://images.unsplash.com/photo-1605207376417-0ec579fb4276?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTE3fDIxODQ4NTEwfHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60",
+      "image": "swim7.png"
     }
   },
   {
     "pk": 161,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007071033",
-      "name": "Arizona Poplin Cargo Shorts - Boys 8-20",
-      "description": "Easily paired with his favorite shirts, these flat-front, relaxed-fit cargo shorts are sure to become a new wardrobe staple. adjustable waist zip fly with button closure 6-pocket styling 100% cotton washable imported",
-      "price": 41.99,
-      "category": 8,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0407201620401180C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0407201620401180C.jpg"
+      "sku": "swi00008",
+      "name": "Ahoy!",
+      "description": "Nautical style blue and white one piece with side panel cut outs and halterneck.",
+      "price": 37.99,
+      "has_sizes": true,
+      "category": 4,
+      "subcategory": 14,
+      "image_url": "https://images.unsplash.com/photo-1543489321-45c817e6b2ef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1353&q=80",
+      "image": "swim8.png"
     }
   },
   {
     "pk": 162,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007090227",
-      "name": "a.n.a Sleeveless Cinched Waist Knit Jumpsuit",
-      "description": "Our jumpsuit features a chest pocket and cinched waistline for a super-cute warm-weather look. scoopneck sleeveless chest pocket cinched waist with drawstring misses: 27\" inseam talls: 30\" long rayon/spandex hand wash, dry flat imported",
-      "price": 53.99,
-      "category": 8,
-      "rating": 4.5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0404201617034330M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0404201617034330M.jpg"
+      "sku": "swi00009",
+      "name": "Perfect Poseys",
+      "description": "Floral print one piece with front cut outs with tie details and spagetti straps.",
+      "price": 34.99,
+      "has_sizes": true,
+      "category": 4,
+      "subcategory": 14,
+      "image_url": "https://images.unsplash.com/photo-1551887283-ca87be316d1d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=627&q=80",
+      "image": "swim9.png"
     }
   },
   {
     "pk": 163,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007160030",
-      "name": "i jeans by Buffalo Lace Midi Skirt",
-      "description": "With an elastic waistband, our lace midi skirt is the perfect blend of comfortable and chic. mid rise slim fit elastic waist 29\" length lace nylon/spandex washable imported",
-      "price": 51.99,
-      "category": 8,
-      "rating": 4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0414201617030734M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0414201617030734M.jpg"
+      "sku": "swi00010",
+      "name": "Black Beauty",
+      "description": "Black 2 piece with bodice style top and tanga bottoms",
+      "price": 39.99,
+      "has_sizes": true,
+      "category": 4,
+      "subcategory": 15,
+      "image_url": "https://images.unsplash.com/photo-1613006274933-b21e44ac9b58?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "image": "swim10.png"
     }
   },
   {
     "pk": 164,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007170155",
-      "name": "Liz Claiborne Roll-Cuff Cargo Shorts",
-      "description": "Our roll-cuff cargo shorts are the perfect casual pick for your warm-weather wardrobe. mid rise 2 front slant pockets 2 back patch pockets 9\" inseam cotton/spandex washable imported",
-      "price": 45.99,
-      "category": 8,
-      "rating": 4.3,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0411201617053625M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0411201617053625M.jpg"
+      "sku": "swi00011",
+      "name": "Candy Striper",
+      "description": "Red and white vertical striped one piece.",
+      "price": 26.99,
+      "has_sizes": true,
+      "category": 4,
+      "subcategory": 14,
+      "image_url": "https://images.unsplash.com/photo-1530527375905-701d92682317?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "image": "swim11.png"
     }
   },
   {
     "pk": 165,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007170182",
-      "name": "Worthington Mixed Media Open Back Blouse - Plus",
-      "description": "It's down to the details with our mixed media open-back blouse, a cute cap-sleeve top that will give you an updated look. roundneck cap sleeve 29 5/8-31\" length outer layer: polyester/spandex under layer: polyester washable imported",
-      "price": 48.99,
-      "category": 8,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0404201617034496M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0404201617034496M.jpg"
+      "sku": "swi00012",
+      "name": "Cherry Bomb",
+      "description": "Red halterneck 2 piece with tie strings",
+      "price": 31.99,
+      "has_sizes": true,
+      "category": 4,
+      "subcategory": 15,
+      "image_url": "https://images.unsplash.com/photo-1596456214422-5406e06f0f5a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80",
+      "image": "swim12.png"
     }
   },
   {
     "pk": 166,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007210063",
-      "name": "Steve Harvey Linen Blend Vest - Big & Tall",
-      "description": "Feel great and look sharp in our linen-blend vest with paisley trim. white taping and paisley trim embroidery 5-button front linen/rayon hand wash, line dry imported",
-      "price": 94.99,
-      "category": 8,
-      "rating": 3,
-      "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0226201617023618M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
-      "image": "DP0226201617023618M.jpg"
+      "sku": "top00001",
+      "name": "Puff Up",
+      "description": "Balloon sleeved, loose fit, white blouse with tapered cuffs.",
+      "price": 35.99,
+      "has_sizes": true,
+      "category": 7,
+      "subcategory": 17,
+      "image_url": "https://images.unsplash.com/photo-1604994183234-a311cba28474?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+      "image": "top1.png"
     }
   },
   {
     "pk": 167,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007210967",
-      "name": "Studio 1 Sleeveless Embellished-Neck Handkerchief Dress - Plus",
-      "description": "Slip into something cool during the warm-weather months with our sleeveless dress, sporting a hip handkerchief hem, embellishments at the neck and a pretty print fabric. v-neck sleeveless 39-42\" length from shoulder polyester hand wash, line dry imported ",
-      "price": 102.99,
-      "category": 8,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0413201617045423M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0413201617045423M.jpg"
+      "sku": "top00002",
+      "name": "Bowie T-shirt",
+      "description": "Black, relaxed fit, Bowie T-shirt",
+      "price": 24.99,
+      "has_sizes": true,
+      "category": 7,
+      "subcategory": 16,
+      "image_url": "https://images.unsplash.com/photo-1585940220991-3ee52f287bde?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1347&q=80",
+      "image": "top2.png"
     }
   },
   {
     "pk": 168,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007220049",
-      "name": "Danny & Nicole Sleeveless Printed Fit-and-Flare Dress - Plus",
-      "description": "Look and feel your very best when you're in our sleeveless printed fit-and-flare dress by Danny Nicole. scoopneck 44\" length from shoulder polyester/spandex washable imported",
-      "price": 103.99,
-      "category": 4,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0413201617045408M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0413201617045408M.jpg"
+      "sku": "top00003",
+      "name": "Icons T-shirt",
+      "description": "Black, relaxed fit, Audrey and Marilyn T-shirt",
+      "price": 24.99,
+      "has_sizes": true,
+      "category": 7,
+      "subcategory": 16,
+      "image_url": "https://images.unsplash.com/photo-1567181389426-28c6c17023d4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "image": "top3.png"
     }
   },
   {
     "pk": 169,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007250126",
-      "name": "MaryJane's Home Cotton Clouds Square Decorative Pillow",
-      "description": "This decorative pillow will add a finishing touch to your bedroom, couch or entryway bench. coral decorative pillow 18x18\" 100% cotton; polyester fill spot clean imported",
-      "price": 72.99,
-      "category": 8,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0408201617014664M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0408201617014664M.jpg"
+      "sku": "top00004",
+      "name": "Dreamer T-shirt",
+      "description": "White, relaxed fit, Dreamer T-shirt",
+      "price": 27.99,
+      "has_sizes": true,
+      "category": 7,
+      "subcategory": 16,
+      "image_url": "https://images.unsplash.com/photo-1569033083669-a63ea13bc769?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=925&q=80",
+      "image": "top4.png"
     }
   },
   {
     "pk": 170,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007280253",
-      "name": "City Triangles Sleeveless Lace Top Printed Short Belted Romper",
-      "description": "Update your warm-weather style with our romper, which features a lace top, an adjustable belt and printed shorts to complete the look. v-neck sleeveless back zipper with hook-and-eye closure lined bodice printed shorts includes belt 32\" length; 3\" inseam body: polyester lace: cotton/nylon washable; remove belt before washing imported",
-      "price": 62.99,
-      "category": 8,
-      "rating": 4,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0421201617033561M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0421201617033561M.jpg"
+      "sku": "top00005",
+      "name": "Rainbow Tank",
+      "description": "White tank with rainbow.",
+      "price": 25.99,
+      "has_sizes": true,
+      "category": 7,
+      "subcategory": 16,
+      "image_url": "https://images.unsplash.com/photo-1532884592505-a33f93801866?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1397&q=80",
+      "image": "top5.png"
     }
   },
   {
     "pk": 171,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007300026",
-      "name": "by&by Spaghetti Strap Crochet Inset Waist Dress",
-      "description": "A sweetheart neckline, spaghetti straps, crochet insert, illusion waist and flowing skirt give our dress a look that's full of feminine charm. sweetheart neckline sleeveless crochet inset illusion waist zipper on back 34\" length rayon/polyester hand wash, line dry imported",
-      "price": 62.99,
-      "category": 8,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0421201617033514M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0421201617033514M.jpg"
+      "sku": "top00006",
+      "name": "Plain White T",
+      "description": "White, broad shoulder, sleeveless T-shirt.",
+      "price": 29.99,
+      "has_sizes": true,
+      "category": 7,
+      "subcategory": 16,
+      "image_url": "https://images.unsplash.com/photo-1598554793905-075f7b355cd9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80",
+      "image": "top6.png"
     }
   },
   {
     "pk": 172,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007310136",
-      "name": "Stylus Flare Jeans",
-      "description": "Add a little retro to your wardrobe to create fashion fun with our Stylus flare jeans. high rise flare leg 5-pockets 32\" inseam cotton/polyester/rayon/spandex washable imported ",
-      "price": 60.99,
-      "category": 6,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1202201517023245M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP1202201517023245M.jpg"
+      "sku": "top00007",
+      "name": "Sparkle Sparkle",
+      "description": "Purple iridescent, long sleeved top",
+      "price": 37.99,
+      "has_sizes": true,
+      "category": 7,
+      "subcategory": 17,
+      "image_url": "https://images.unsplash.com/photo-1586226177071-5e6a0e462d11?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=680&q=80",
+      "image": "top7.png"
     }
   },
   {
     "pk": 173,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007310220",
-      "name": "Alyx Printed Maxi Skirt",
-      "description": "With a stretch-knit fabric and on-trend print, our Alyx maxi skirt is sure to be an instant favorite. 40\" length polyester/spandex hand wash, line dry imported ",
-      "price": 58.99,
-      "category": 8,
-      "rating": 4.5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0325201617032536M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0325201617032536M.jpg"
+      "sku": "top00008",
+      "name": "Black Betty",
+      "description": "Black button up crop top, long loose sleeves with tapered cuffs.",
+      "price": 34.99,
+      "has_sizes": true,
+      "category": 7,
+      "subcategory": 17,
+      "image_url": "https://images.unsplash.com/photo-1582665604603-5dbd6cd3fa02?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=619&q=80",
+      "image": "top8.png"
     }
   },
   {
     "pk": 174,
     "model": "products.product",
     "fields": {
-      "sku": "pp5007320233",
-      "name": "St. John's Bay Ikat Sharkbite Tank Top",
-      "description": "Add our tank top to your warm-weather wardrobe, featuring a sharkbite hem and a flowy style that looks great with shorts or skinny jeans. roundneck sharkbite hem rayon washable imported petite: 30\" length misses: 32\" length",
-      "price": 36.99,
-      "category": 8,
-      "rating": 5,
-      "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0429201617074742M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-      "image": "DP0429201617074742M.jpg"
+      "sku": "top00009",
+      "name": "Bananarama",
+      "description": "Multicolur, striped, ribbed, fitted long-sleeved top.",
+      "price": 42.99,
+      "has_sizes": true,
+      "category": 7,
+      "subcategory": 17,
+      "image_url": "https://images.pexels.com/photos/1416423/pexels-photo-1416423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image": "top9.png"
+    }
+  },
+  {
+    "pk": 175,
+    "model": "products.product",
+    "fields": {
+      "sku": "top00010",
+      "name": "Roar!",
+      "description": "Satin look, animal print string top",
+      "price": 26.99,
+      "has_sizes": true,
+      "category": 7,
+      "subcategory": 17,
+      "image_url": "https://images.unsplash.com/photo-1614651211255-83b51ab66ebd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=700&q=80",
+      "image": "top10.png"
+    }
+  },
+   {
+    "pk": 176,
+    "model": "products.product",
+    "fields": {
+      "sku": "top00011",
+      "name": "Black Mamba",
+      "description": "Leather look, exaggerated puff shoulders with plunging neckline in black.",
+      "price": 47.99,
+      "has_sizes": true,
+      "category": 7,
+      "subcategory": 17,
+      "image_url": "https://images.unsplash.com/photo-1568251478083-32c27296c2c2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1326&q=80",
+      "image": "top11.png"
     }
   }
 ]
